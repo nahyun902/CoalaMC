@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example4", "Example4\Exampl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example5", "Example5\Example5.vcxproj", "{BCD25384-BAC3-4A57-A97D-429660E0FD5B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20192568 이나현 개인과제", "20192568 이나현 개인과제\20192568 이나현 개인과제.vcxproj", "{AF431BBD-07A6-4D3E-A835-EB1588C26033}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{BCD25384-BAC3-4A57-A97D-429660E0FD5B}.Release|x64.Build.0 = Release|x64
 		{BCD25384-BAC3-4A57-A97D-429660E0FD5B}.Release|x86.ActiveCfg = Release|Win32
 		{BCD25384-BAC3-4A57-A97D-429660E0FD5B}.Release|x86.Build.0 = Release|Win32
+		{AF431BBD-07A6-4D3E-A835-EB1588C26033}.Debug|x64.ActiveCfg = Debug|x64
+		{AF431BBD-07A6-4D3E-A835-EB1588C26033}.Debug|x64.Build.0 = Debug|x64
+		{AF431BBD-07A6-4D3E-A835-EB1588C26033}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF431BBD-07A6-4D3E-A835-EB1588C26033}.Debug|x86.Build.0 = Debug|Win32
+		{AF431BBD-07A6-4D3E-A835-EB1588C26033}.Release|x64.ActiveCfg = Release|x64
+		{AF431BBD-07A6-4D3E-A835-EB1588C26033}.Release|x64.Build.0 = Release|x64
+		{AF431BBD-07A6-4D3E-A835-EB1588C26033}.Release|x86.ActiveCfg = Release|Win32
+		{AF431BBD-07A6-4D3E-A835-EB1588C26033}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
